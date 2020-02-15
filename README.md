@@ -1,7 +1,7 @@
 sabayon-greeter
 ================
 
-Sabayon welcome screen
+Funtoo welcome screen
 
 * python 3
 * gtk
