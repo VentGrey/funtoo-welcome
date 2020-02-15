@@ -20,7 +20,7 @@
 # along with Antergos Welcome. If not, see <http://www.gnu.org/licenses/>.
 #
 
-""" Welcome screen for Sabayon """
+""" Welcome screen for Funtoo """
 
 import inspect
 import os
