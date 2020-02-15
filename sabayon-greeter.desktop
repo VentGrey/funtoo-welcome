@@ -1,0 +1,10 @@
+[Desktop Entry]
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;System;
+StartupNotify=false
+Name=Sabayon Greeter
+Exec=sabayon-greeter
+Icon=gtk-info
+Comment=The Sabayon Welcome utility.
+Name[de_DE.UTF-8]=Sabayon Welcome
