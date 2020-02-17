@@ -9,7 +9,6 @@ BINDIR ?= /bin
 LIBEXECDIR ?= /usr/libexec
 SYSCONFDIR ?= /etc
 SKELDIR ?= /etc/skel
-SYSTEMD_UNITDIR ?= $(LIBDIR)/systemd/system
 SYSV_INITDIR = /etc/init.d
 PROGNAME = sabayon-greeter
 
